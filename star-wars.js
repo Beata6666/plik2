@@ -21,7 +21,7 @@ console.log(123);
 //         </div>
 //     </div>
 const sekcjaKarty = document.querySelector("#wrapper");
-
+console.log(123)
 const dodajPostac = (postac) => {
     console.log(postac);
     const karta = document.createElement("article");
